@@ -14,19 +14,19 @@ This chart tracks the yearly releases of TV shows and movies on Amazon Prime Vid
 
 ## Unlock the Power of Data Visualization
 
-### Interactive Controls:
+- Interactive Controls:
 Fine-tune your analysis by filtering content based on specific categories, ratings, or geographical regions.
-### Tailored Visualizations: 
+- Tailored Visualizations: 
 Craft charts and maps to perfectly suit your needs and brand aesthetic.
 ## Data Empowered Decisions:
 
-### Insights at Your Fingertips:
+- Insights at Your Fingertips:
 Gain a clear understanding of user preferences through compelling visual storytelling.
-### Strategic Content Allocation: 
+- Strategic Content Allocation: 
 Leverage data to optimize resource distribution and focus on high-performing content and genres.
-### Targeted Audience Engagement:
+- Targeted Audience Engagement:
 Reach viewers where they are with marketing strategies aligned with their geographical location and preferred content types.
-### Data-Driven Impact: 
+- Data-Driven Impact: 
 Impress stakeholders with clear and impactful data visualizations that drive results.
 ### Unlock the Potential, Today!
-Start using this powerful dashboard and unlock a treasure trove of insights to propel your content strategy forward. 
+Get started with this Tableau dashboard and unlock a treasure trove of insights to propel your content strategy forward. 
